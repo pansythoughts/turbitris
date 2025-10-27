@@ -1,0 +1,12 @@
+
+grit-0.8.6BUENOPABG/
+gritBUENO/
+gritt/
+libnds/
+nfdocs/
+nflib/
+build/
+
+*.nds
+*.zip
+*.txt
