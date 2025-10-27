@@ -6,6 +6,7 @@ libnds/
 nfdocs/
 nflib/
 build/
+nf_docs/
 
 *.nds
 *.zip
