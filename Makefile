@@ -11,12 +11,12 @@ ARM_NONE_EABI_PATH	?= $(WONDERFUL_TOOLCHAIN)/toolchain/gcc-arm-none-eabi/bin/
 # User config
 # ===========
 
-NAME		:= template_arm9
+NAME		:= turbitris
 
-GAME_TITLE	:= ARM9 only template
-GAME_SUBTITLE	:= Built with BlocksDS
-GAME_AUTHOR	:= github.com/blocksds/sdk
-GAME_ICON	:= $(BLOCKSDS)/sys/icon.bmp
+GAME_TITLE	:= turbitris
+GAME_SUBTITLE	:= game jam thingy
+GAME_AUTHOR	:= pansythoughts
+GAME_ICON	:= assets/icon.bmp
 
 # DLDI and internal SD slot of DSi
 # --------------------------------
