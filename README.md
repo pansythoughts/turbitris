@@ -49,4 +49,3 @@ anyways, hope you enjoy this little thing I made out of boredom :D.
 
 
 [itch.io page](https://pansythoughts.itch.io/turbitris).
->>>>>>> db02c6456bf9ca6a50a35017f2641c9af1b43e1a
